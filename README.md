@@ -23,16 +23,16 @@ My love of programming and discovering things keeps me constantly learning, alwa
         </samp>
 </h3>
 <p align="center">
-	<img  src="icons/hashtag.png" width="50" height="40" />
-	<img  src="icons/javascript.png" width="50" height="40" />
-	<img  src="icons/python.png" width="50" height="40" />
-	<img  src="icons/mongodb.png" width="50" height="40" />
-	<img  src="icons/nodejs.png" width="50" height="40" />
-	<img  src="icons/sqls.png" width="50" height="40" />
-	<img  src="icons/html.png" width="50" height="40" />
-	<img  src="icons/css.png" width="50" height="40" />
-	<img  src="icons/react.png" width="50" height="40" />
-	<img  src="icons/kotlin.png" width="50" height="40" />
+	<img  src="icons/hashtag.png" width="40" height="40" />
+	<img  src="icons/javascript.png" width="40" height="40" />
+	<img  src="icons/python.png" width="40" height="40" />
+	<img  src="icons/mongodb.png" width="40" height="40" />
+	<img  src="icons/nodejs.png" width="40" height="40" />
+	<img  src="icons/sqls.png" width="40" height="40" />
+	<img  src="icons/html.png" width="40" height="40" />
+	<img  src="icons/css.png" width="40" height="40" />
+	<img  src="icons/react.png" width="40" height="40" />
+	<img  src="icons/kotlin.png" width="40" height="40" />
 </p>
 <hr>
 
@@ -42,7 +42,7 @@ My love of programming and discovering things keeps me constantly learning, alwa
         </samp>
 </h3>
 <p align="center">
-	<img  src="icons/aws.png" width="50" height="40" />
+	<img  src="icons/aws.png" width="57" height="40" />
 </p>
 <hr>
 
@@ -52,9 +52,9 @@ My love of programming and discovering things keeps me constantly learning, alwa
         </samp>
 </h3>
 <p align="center">
-	<img  src="icons/r.png" width="50" height="40" />
-	<img  src="icons/swift.png" width="50" height="40" />
-	<img  src="icons/haskell.png" width="50" height="40" />
+	<img  src="icons/r.png" width="40" height="40" />
+	<img  src="icons/swift.png" width="40" height="40" />
+	<img  src="icons/haskell.png" width="40" height="40" />
 	
 </p>
 <hr>
