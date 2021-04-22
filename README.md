@@ -42,7 +42,7 @@ My love of programming and discovering things keeps me constantly learning, alwa
         </samp>
 </h3>
 <p align="center">
-	<img  src="icons/aws.png" width="57" height="40" />
+	<img  src="icons/aws.png" width="60" height="40" />
 </p>
 <hr>
 
