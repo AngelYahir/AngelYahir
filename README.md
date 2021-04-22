@@ -52,9 +52,9 @@ My love of programming and discovering things keeps me constantly learning, alwa
         </samp>
 </h3>
 <p align="center">
-	<img  src="icons/r.png" width="70" height="40" />
-	<img  src="icons/swift.png" width="70" height="40" />
-	<img  src="icons/haskell.png" width="70" height="40" />
+	<img  src="icons/r.png" width="60" height="40" />
+	<img  src="icons/swift.png" width="60" height="40" />
+	<img  src="icons/haskell.png" width="60" height="40" />
 	
 </p>
 <hr>
