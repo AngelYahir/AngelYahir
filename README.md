@@ -42,8 +42,10 @@ My love of programming and discovering things keeps me constantly learning, alwa
         <samp>&gt; GitHub stats
         </samp>
 </h3>
+<p align="center">
 <img alt="SP-XD's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=AngelYahir&show_icons=true&theme=tokyonight" href="https://github.com/sp-xd" />
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelYahir&layout=compact&show_icons=true&theme=tokyonight" href="https://github.com/sp-xd" />
+</p>
 
 </a>
 <hr>
