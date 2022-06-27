@@ -43,8 +43,8 @@ My love of programming and discovering things keeps me constantly learning, alwa
         </samp>
 </h3>
 <p align="center">
-	<img  src="icons/rust.png" width="40" height="40" />
-	<img  src="icons/lua.png" width="60" height="40" />
+	<img  src="icons/rust.png" width="30" height="40" />
+	<img  src="icons/lua.png" width="70" height="40" />
 </p>
 <hr>
 
