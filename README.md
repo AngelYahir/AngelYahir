@@ -33,6 +33,7 @@ My love of programming and discovering things keeps me constantly learning, alwa
 	<img  src="icons/css.png" width="40" height="40" />
 	<img  src="icons/react.png" width="40" height="40" />
 	<img  src="icons/kotlin.png" width="40" height="40" />
+	<img  src="icons/linux.png" width="40" height="40" />
 </p>
 <hr>
 
@@ -42,7 +43,8 @@ My love of programming and discovering things keeps me constantly learning, alwa
         </samp>
 </h3>
 <p align="center">
-	<img  src="icons/aws.png" width="60" height="40" />
+	<img  src="icons/rust.png" width="40" height="40" />
+	<img  src="icons/lua.png" width="60" height="40" />
 </p>
 <hr>
 
@@ -55,6 +57,7 @@ My love of programming and discovering things keeps me constantly learning, alwa
 	<img  src="icons/r.png" width="40" height="40" />
 	<img  src="icons/swift.png" width="40" height="40" />
 	<img  src="icons/haskell.png" width="40" height="40" />
+	<img  src="icons/aws.png" width="60" height="40" />
 	
 </p>
 <hr>
