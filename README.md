@@ -10,7 +10,7 @@
         </samp>
 </h3>
 <p align="center">
-I am an information technology in multiplatform software development student  at the Universidad Tecnológica de  Santa Catarina, Mexico.
+I am an information technology in multiplatform software development student and linux enthusiast.
 </p>
 <p align="center">
 My love of programming and discovering things keeps me constantly learning, always trying to improve and learn from other people.
