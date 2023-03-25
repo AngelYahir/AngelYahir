@@ -34,6 +34,7 @@ My love of programming and discovering things keeps me constantly learning, alwa
 	<img  src="icons/react.png" width="40" height="40" />
 	<img  src="icons/kotlin.png" width="40" height="40" />
 	<img  src="icons/linux.png" width="40" height="40" />
+	<img  src="icons/lua.png" width="40" height="40" />
 </p>
 <hr>
 
@@ -44,7 +45,7 @@ My love of programming and discovering things keeps me constantly learning, alwa
 </h3>
 <p align="center">
 	<img  src="icons/rust.png" width="50" height="40" />
-	<img  src="icons/lua.png" width="40" height="40" />
+	<img  src="icons/go.png" width="40" height="40" />
 </p>
 <hr>
 
