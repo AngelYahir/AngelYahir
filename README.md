@@ -16,7 +16,9 @@ I'm an software development student and linux enthusiast.
 My love of programming and discovering things keeps me constantly learning, always trying to improve and learn from other people.
 </p>
 <hr>
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&lineCount=1&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=Node.js,Node.js,05c102;JavaScript,JavaScript,ffee00;Express,Express,ffffff;" alt="My Tech Stack" />
+<div align="center">
+	<img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&lineCount=1&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=Node.js,Node.js,05c102;JavaScript,JavaScript,ffee00;Express,Express,ffffff;" alt="My Tech Stack" />
+</div>
 
 <h3 align="center">
         <samp>&gt; Working with
