@@ -10,7 +10,7 @@
         </samp>
 </h3>
 <p align="center">
-I'm an software development student and linux enthusiast.
+I'm an software development and linux enthusiast.
 </p>
 <p align="center">
 My love of programming and discovering things keeps me constantly learning, always trying to improve and learn from other people.
