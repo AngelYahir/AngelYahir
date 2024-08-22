@@ -15,8 +15,8 @@
 <span style="color: #cba6f7">Frameworks:</span>   		NestJS, React, Express
 <span style="color: #cba6f7">Tech Stack:</span>   		Node.js, TypeScript, JavaScript
 <span style="color: #cba6f7">Learning:</span>     		Go, Haskell, AWS, EdgeDB
-<span style="color: #cba6f7">Working with:</span> 		C#, Python, NoSQL, SQL, HTML/CSS, Kotlin, 
-				Lua, Rust, Bash Script
+<span style="color: #cba6f7">Working with:</span> 		C#, Python, NoSQL, SQL, HTML/CSS, 
+			 Kotlin, Lua, Rust, Bash Script
 <span style="color: #cba6f7">Interest in learning:</span> 	Swift, R, Ruby on Rails
 <span style="color: #cba6f7">Hobbies:</span>      		Gaming, Cooking, Mechatronics, 
 				Scale Car Collecting
