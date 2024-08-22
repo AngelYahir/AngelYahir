@@ -1,103 +1,83 @@
-<!--Hello!-->
-<h2 align="center">
-        <samp>&gt; Hello World!, I'm Angel Torres
-        </samp>
-</h2>
+<style>
+        .color-block {
+            width: 30px;
+            height: 30px;
+            margin: 1px;
+            display: inline-block;
+        }
+    </style>
 
-<!--About me-->
-<h3 align="center">
-        <samp>&gt; About me
-        </samp>
-</h3>
-<p align="center">
-I'm an software development and linux enthusiast.
-</p>
-<p align="center">
-My love of programming and discovering things keeps me constantly learning, always trying to improve and learn from other people.
-</p>
-<hr>
+```bash
+> neofetch
+```
+
+<div style="display: flex; align-items: center; justify-content: center; text-align: left;">
+
+<img src="./icons/profile.jpeg" width="350" style="border-radius: 10px; margin-right: 20px;" />
+
+<div>
+<pre style="color: #f5e0dc; font-family: monospace;">
+<span style="color: #cba6f7">AngelYahir@github</span> 
+---------------------------------------------------------------------
+<span style="color: #cba6f7">OS:</span>           			Arch Linux x86_64 / Windows 11 Pro
+<span style="color: #cba6f7">Shell:</span>        			Fish
+<span style="color: #cba6f7">Pronouns:</span>     			He/Him
+<span style="color: #cba6f7">Location:</span>     			Nuevo León, México
+<span style="color: #cba6f7">Frameworks:</span>   			NestJS, React, Express
+<span style="color: #cba6f7">Tech Stack:</span>   			Node.js, TypeScript, JavaScript
+<span style="color: #cba6f7">Learning:</span>     			Go, Haskell, AWS, EdgeDB
+<span style="color: #cba6f7">Working with:</span> 			C#, Python, NoSQL, SQL, HTML/CSS, Kotlin, 
+				   Lua, Rust, Bash Script
+<span style="color: #cba6f7">Interest in learning:</span> 		Swift, R, Ruby on Rails
+<span style="color: #cba6f7">Hobbies:</span>      			Gaming, Cooking, Mechatronics, 
+				  Scale Car Collecting
+</pre>
 <div align="center">
-	<img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&lineCount=1&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=Node.js,Node.js,05c102;JavaScript,JavaScript,ffee00;Express,Express,ffffff;" alt="My Tech Stack" />
+	<div class="color-block" style="background-color: #f5e0dc;"></div>
+	<div class="color-block" style="background-color: #f5c2e7;"></div>
+	<div class="color-block" style="background-color: #cba6f7;"></div>
+	<div class="color-block" style="background-color: #f38ba8;"></div>
+	<div class="color-block" style="background-color: #a6e3a1;"></div>
+	<div class="color-block" style="background-color: #89b4fa;"></div>
+	<div class="color-block" style="background-color: #313244;"></div>
 </div>
 
-<h3 align="center">
-        <samp>&gt; Working with
-        </samp>
-</h3>
-<p align="center">
-	<img  src="icons/hashtag.png" width="40" height="40" />
-	<img  src="icons/javascript.png" width="40" height="40" />
-	<img  src="icons/python.png" width="40" height="40" />
-	<img  src="icons/mongodb.png" width="40" height="40" />
-	<img  src="icons/nodejs.png" width="40" height="40" />
-	<img  src="icons/sqls.png" width="40" height="40" />
-	<img  src="icons/html.png" width="40" height="40" />
-	<img  src="icons/css.png" width="40" height="40" />
-	<img  src="icons/react.png" width="40" height="40" />
-	<img  src="icons/kotlin.png" width="40" height="40" />
-	<img  src="icons/linux.png" width="40" height="40" />
-	<img  src="icons/lua.png" width="40" height="40" />
-</p>
-<hr>
 
+</div>
 
-<h3 align="center">
-        <samp>&gt; Learning
-        </samp>
-</h3>
-<p align="center">
-	<img  src="icons/rust.png" width="50" height="40" />
-	<img  src="icons/go.png" width="40" height="40" />
-</p>
-<hr>
+</div>
 
+<br><br><br>
 
-<h3 align="center">
-        <samp>&gt; What I am interested in learning at some point
-        </samp>
-</h3>
-<p align="center">
-	<img  src="icons/r.png" width="40" height="40" />
-	<img  src="icons/swift.png" width="40" height="40" />
-	<img  src="icons/haskell.png" width="40" height="40" />
-	<img  src="icons/aws.png" width="60" height="40" />
-	
-</p>
 <hr>
 
 <!--Github stats-->
-<h3 align="center">
-        <samp>&gt; GitHub stats
-        </samp>
-</h3>
-
+```bash
+> Github Stats
+```
 <p align="center">
 <img alt="SP-XD's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=AngelYahir&show_icons=true&theme=tokyonight" href="https://github.com/sp-xd" />
-<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelYahir&layout=compact&show_icons=true&theme=tokyonight" href="https://github.com/sp-xd" />
+<img alt="Top Langs" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelYahir&layout=compact&show_icons=true&theme=tokyonight" href="https://github.com/sp-xd" />
 </p>
 
 </a>
 <hr>
 
 <!--Social-->
-<h3 align="center">
-        <samp>&gt; Social
-        </samp>
-</h3>
+```bash
+> Social
+```
 
 <div align="center">
 <a target="_blank" href="https://linkedin.com/in/angel-ytm"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:angel_torres2702@outlook.com"><img src="https://img.shields.io/badge/-Mail-0364B8?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/YahirTAngel"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<a target="_blank" href="https://t.me/TMAngelYahir"><img src="https://img.shields.io/badge/-Telegram-1DA1F2?logo=telegram&logoColor=white&style=for-the-badge"></img></a>
+<a target="_blank" href="https://open.spotify.com/user/angelpochoclo2?si=b5b267c887e14b68"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></img></a>
+<a target="_blank" href="https://music.apple.com/profile/angel_torres2702"><img src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white"></img></a>
 </div>
 <br>
-<hr>
 
-<h4 align="center">
-        <samp>&gt; Welcome to my github
-        </samp>
-</h4>
 <div align="center">
-<img src="icons/bonfire.gif"></img>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=angelpochoclo2&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=angelpochoclo2&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ae00ff&bar_color_cover=false" alt="spotify-github-profile">
+  </a>
 </div>
