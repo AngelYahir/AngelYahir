@@ -7,7 +7,7 @@
 <div>
 <pre style="color: #f5e0dc; font-family: monospace;">
 <span style="color: #cba6f7">AngelYahir@github</span> 
----------------------------------------------------------------------
+----------------------------------------------------------------
 <span style="color: #cba6f7">OS:</span>           		Arch Linux x86_64 / Windows 11 Pro
 <span style="color: #cba6f7">Shell:</span>        		Fish
 <span style="color: #cba6f7">Pronouns:</span>     		He/Him
