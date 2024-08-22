@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="./icons/profile.jpeg" width="320" style="border-radius: 10px; margin-right: 20px;" />
+<img align="left" src="./icons/profile.jpeg" width="300" style="border-radius: 10px; margin-right: 20px;" />
 
 <div>
 <pre style="color: #f5e0dc; font-family: monospace;">
@@ -20,15 +20,12 @@
 <span style="color: #cba6f7">Interest in learning:</span> 		Swift, R, Ruby on Rails
 <span style="color: #cba6f7">Hobbies:</span>      			Gaming, Cooking, Mechatronics, 
 				  Scale Car Collecting
-</pre>
 
 <p align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://via.placeholder.com/15/f5e0dc/000000?text=+" width="30" height="30" style="margin: 5px" /><img src="https://via.placeholder.com/15/f5c2e7/000000?text=+" width="30" height="30" style="margin: 5px" /><img src="https://via.placeholder.com/15/cba6f7/000000?text=+"width="30" height="30" style="margin: 5px" /><img src="https://via.placeholder.com/15/f38ba8/000000?text=+" width="30" height="30" style="margin: 5px" /><img src="https://via.placeholder.com/15/a6e3a1/000000?text=+" width="30" height="30" style="margin: 5px" /><img src="https://via.placeholder.com/15/89b4fa/000000?text=+" width="30" height="30" style="margin: 5px" /><img src="https://via.placeholder.com/15/313244/000000?text=+" width="30" height="30" style="margin: 5px" />
 </p>
-
-</div>
-
+</pre>
 </div>
 
 <br><br><br>
