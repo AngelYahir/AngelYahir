@@ -1,19 +1,10 @@
-<style>
-        .color-block {
-            width: 30px;
-            height: 30px;
-            margin: 1px;
-            display: inline-block;
-        }
-    </style>
-
 ```bash
 > neofetch
 ```
 
 <div style="display: flex; align-items: center; justify-content: center; text-align: left;">
 
-<img src="./icons/profile.jpeg" width="350" style="border-radius: 10px; margin-right: 20px;" />
+<img src="./icons/profile.jpeg" width="320" style="border-radius: 10px; margin-right: 20px;" />
 
 <div>
 <pre style="color: #f5e0dc; font-family: monospace;">
@@ -33,13 +24,13 @@
 				  Scale Car Collecting
 </pre>
 <div align="center">
-	<div class="color-block" style="background-color: #f5e0dc;"></div>
-	<div class="color-block" style="background-color: #f5c2e7;"></div>
-	<div class="color-block" style="background-color: #cba6f7;"></div>
-	<div class="color-block" style="background-color: #f38ba8;"></div>
-	<div class="color-block" style="background-color: #a6e3a1;"></div>
-	<div class="color-block" style="background-color: #89b4fa;"></div>
-	<div class="color-block" style="background-color: #313244;"></div>
+	<div class="color-block" style="background-color: #f5e0dc; width: 30px; height: 30px; margin: 1px; display: inline-block;"></div>
+	<div class="color-block" style="background-color: #f5c2e7; width: 30px; height: 30px; margin: 1px; display: inline-block;"></div>
+	<div class="color-block" style="background-color: #cba6f7; width: 30px; height: 30px; margin: 1px; display: inline-block;"></div>
+	<div class="color-block" style="background-color: #f38ba8; width: 30px; height: 30px; margin: 1px; display: inline-block;"></div>
+	<div class="color-block" style="background-color: #a6e3a1; width: 30px; height: 30px; margin: 1px; display: inline-block;"></div>
+	<div class="color-block" style="background-color: #89b4fa; width: 30px; height: 30px; margin: 1px; display: inline-block;"></div>
+	<div class="color-block" style="background-color: #313244; width: 30px; height: 30px; margin: 1px; display: inline-block;"></div>
 </div>
 
 
@@ -52,9 +43,10 @@
 <hr>
 
 <!--Github stats-->
-```bash
-> Github Stats
-```
+<h3 align="center">
+        <samp>&gt; GitHub Stats
+        </samp>
+</h3>
 <p align="center">
 <img alt="SP-XD's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=AngelYahir&show_icons=true&theme=tokyonight" href="https://github.com/sp-xd" />
 <img alt="Top Langs" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelYahir&layout=compact&show_icons=true&theme=tokyonight" href="https://github.com/sp-xd" />
@@ -64,9 +56,10 @@
 <hr>
 
 <!--Social-->
-```bash
-> Social
-```
+<h3 align="center">
+        <samp>&gt; Social
+        </samp>
+</h3>
 
 <div align="center">
 <a target="_blank" href="https://linkedin.com/in/angel-ytm"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
