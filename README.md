@@ -2,9 +2,7 @@
 > neofetch
 ```
 
-<div style="display: flex; align-items: center; justify-content: center; text-align: left;">
-
-<img src="./icons/profile.jpeg" width="320" style="border-radius: 10px; margin-right: 20px;" />
+<img align="left" src="./icons/profile.jpeg" width="320" style="border-radius: 10px; margin-right: 20px;" />
 
 <div>
 <pre style="color: #f5e0dc; font-family: monospace;">
@@ -23,16 +21,11 @@
 <span style="color: #cba6f7">Hobbies:</span>      			Gaming, Cooking, Mechatronics, 
 				  Scale Car Collecting
 </pre>
-<div align="center">
-	<div class="color-block" style="background-color: #f5e0dc; width: 30px; height: 30px; margin: 1px; display: inline-block;"></div>
-	<div class="color-block" style="background-color: #f5c2e7; width: 30px; height: 30px; margin: 1px; display: inline-block;"></div>
-	<div class="color-block" style="background-color: #cba6f7; width: 30px; height: 30px; margin: 1px; display: inline-block;"></div>
-	<div class="color-block" style="background-color: #f38ba8; width: 30px; height: 30px; margin: 1px; display: inline-block;"></div>
-	<div class="color-block" style="background-color: #a6e3a1; width: 30px; height: 30px; margin: 1px; display: inline-block;"></div>
-	<div class="color-block" style="background-color: #89b4fa; width: 30px; height: 30px; margin: 1px; display: inline-block;"></div>
-	<div class="color-block" style="background-color: #313244; width: 30px; height: 30px; margin: 1px; display: inline-block;"></div>
-</div>
 
+<p align="center">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://via.placeholder.com/15/f5e0dc/000000?text=+" width="30" height="30" style="margin: 5px" /><img src="https://via.placeholder.com/15/f5c2e7/000000?text=+" width="30" height="30" style="margin: 5px" /><img src="https://via.placeholder.com/15/cba6f7/000000?text=+"width="30" height="30" style="margin: 5px" /><img src="https://via.placeholder.com/15/f38ba8/000000?text=+" width="30" height="30" style="margin: 5px" /><img src="https://via.placeholder.com/15/a6e3a1/000000?text=+" width="30" height="30" style="margin: 5px" /><img src="https://via.placeholder.com/15/89b4fa/000000?text=+" width="30" height="30" style="margin: 5px" /><img src="https://via.placeholder.com/15/313244/000000?text=+" width="30" height="30" style="margin: 5px" />
+</p>
 
 </div>
 
