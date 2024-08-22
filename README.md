@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="./icons/profile.jpeg" width="300" style="border-radius: 10px; margin-right: 20px;" />
+<img align="left" src="./icons/profile.jpeg" width="295" style="border-radius: 10px; margin-right: 20px;" />
 
 <div>
 <pre style="color: #f5e0dc; font-family: monospace;">
