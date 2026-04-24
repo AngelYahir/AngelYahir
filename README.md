@@ -8,16 +8,16 @@
 <pre style="color: #f5e0dc; font-family: monospace;">
 <span style="color: #cba6f7">AngelYahir@github</span> 
 ---------------------------------------------------------------------
-<span style="color: #cba6f7">OS:</span>           		Arch Linux | Windows 11 Pro | macOS Sequoia
+<span style="color: #cba6f7">OS:</span>           		Nix OS | Windows 11 Pro | macOS Sequoia
 <span style="color: #cba6f7">Shell:</span>        		Fish
 <span style="color: #cba6f7">Pronouns:</span>     		He/Him
 <span style="color: #cba6f7">Location:</span>     		Nuevo León, México
 <span style="color: #cba6f7">Frameworks:</span>   		NestJS, React, Express
 <span style="color: #cba6f7">Tech Stack:</span>   		Node.js, TypeScript, JavaScript
-<span style="color: #cba6f7">Learning:</span>     		Go, Haskell, AWS, ASTRO, Swift
-<span style="color: #cba6f7">Working with:</span> 		C#, Python, NoSQL, SQL, HTML/CSS, 
-			  Kotlin, Lua, Rust, Bash Script
-<span style="color: #cba6f7">Interest in learning:</span> 	R, Ruby on Rails
+<span style="color: #cba6f7">Learning:</span>     		Ruby on Rails, CEH
+<span style="color: #cba6f7">Working with:</span> 		C#, Python, NoSQL, SQL, Go, 
+			  Kotlin, Lua, Rust, Bash Script, AWS, ASTRO, Haskell
+<span style="color: #cba6f7">Interest in learning:</span> 	COBOL
 <span style="color: #cba6f7">Hobbies:</span>      		Gaming, Cooking, Mechatronics, 
 				Scale Car Collecting
 </pre>
