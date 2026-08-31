@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="28" viewBox="0 0 118 28" role="img" aria-labelledby="title">
+  <title id="title">Portfolio</title>
+  <rect width="118" height="28" fill="#24273a" />
+  <g transform="translate(8 6)" fill="none" stroke="#a6da95" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="8" cy="8" r="7" />
+    <path d="M1 8h14M8 1c2 2 3 4.3 3 7s-1 5-3 7M8 1C6 3 5 5.3 5 8s1 5 3 7" />
+  </g>
+  <text x="72" y="17.5" fill="#fff" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="10" font-weight="700" letter-spacing="1">PORTFOLIO</text>
+</svg>

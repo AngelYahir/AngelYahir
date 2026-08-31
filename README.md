@@ -1,48 +1,162 @@
-```bash
-> neofetch
+<!-- GitHub profile README for AngelYahir -->
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2030,50:363A4F,100:494D64&height=190&section=header&text=Angel%20Yahir&fontSize=48&fontColor=CAD3F5&animation=fadeIn&fontAlignY=34&desc=Backend%20Engineer%20%E2%80%A2%20Systems%20%E2%80%A2%20Security&descSize=17&descAlignY=56"
+  alt="Angel Torres — Backend Engineer"
+/>
+
+<p align="center">
+  <img src="./icons/profile.out.out.png" width="150" alt="Angel Yahir profile picture" />
+</p>
+
+<p align="center">
+  I build reliable backend systems, with a focus on correctness,<br />
+  observability and graceful failure recovery.
+</p>
+
+<p align="center">
+  <a href="https://aytcode.com">
+    <img src="./icons/portfolio-badge.svg" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/angel-ytm">
+    <img src="./icons/linkedin-badge.svg" alt="LinkedIn" />
+  </a>
+  <a href="mailto:angel_torres2702@outlook.com">
+    <img src="./icons/email-badge.svg" alt="Email" />
+  </a>
+  <a href="https://music.apple.com/profile/angel_torres2702">
+    <img src="https://img.shields.io/badge/Apple_Music-24273A?style=for-the-badge&logo=applemusic&logoColor=F5BDE6" alt="Apple Music" />
+  </a>
+</p>
+
+## `GET /profile`
+
+```http
+HTTP/1.1 200 OK
+Content-Type: application/json
 ```
 
-<img align="left" src="./icons/profile.jpg" width="295" style="border-radius: 10px; margin-right: 20px;" />
+```json
+{
+  "handle": "Angel Torres",
+  "role": "Backend Engineer",
+  "location": "Nuevo León, México",
+  "focus": [
+    "backend architecture",
+    "distributed systems",
+    "API design",
+    "data modeling",
+    "application security",
+    "observability"
+  ]
+}
+```
 
-<div>
-<pre style="color: #f5e0dc; font-family: monospace;">
-<span style="color: #cba6f7">AngelYahir@github</span> 
----------------------------------------------------------------------
-<span style="color: #cba6f7">OS:</span>           		Nix OS | Windows 11 Pro | macOS Sequoia
-<span style="color: #cba6f7">Shell:</span>        		Fish
-<span style="color: #cba6f7">Pronouns:</span>     		He/Him
-<span style="color: #cba6f7">Location:</span>     		Nuevo León, México
-<span style="color: #cba6f7">Frameworks:</span>   		NestJS, React, Express
-<span style="color: #cba6f7">Tech Stack:</span>   		Node.js, TypeScript, JavaScript
-<span style="color: #cba6f7">Learning:</span>     		Ruby on Rails, CEH
-<span style="color: #cba6f7">Working with:</span> 		C#, Python, NoSQL, SQL, Go, 
-			  Kotlin, Lua, Rust, Bash Script, AWS, ASTRO, Haskell
-<span style="color: #cba6f7">Interest in learning:</span> 	COBOL
-<span style="color: #cba6f7">Hobbies:</span>      		Gaming, Cooking, Mechatronics, 
-				Scale Car Collecting
-</pre>
-</div>
+## `~/what-i-build`
 
-<br><br><br>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>APIs &amp; Services</h3>
+      <p><code>REST</code> <code>Auth</code> <code>Workers</code> <code>Events</code></p>
+      <p>APIs, authentication flows and background services with clear boundaries.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Data &amp; State</h3>
+      <p><code>SQL</code> <code>Redis</code> <code>Caching</code> <code>Persistence</code></p>
+      <p>Data modeling, consistency and state that must remain correct under concurrency.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Infrastructure</h3>
+      <p><code>AWS</code> <code>Docker</code> <code>Nix</code> <code>CI/CD</code></p>
+      <p>Deployments, observability and failure recovery for predictable production systems.</p>
+    </td>
+  </tr>
+</table>
 
-<hr>
+The interesting work starts after a request arrives: validating intent, preserving
+invariants, handling concurrency and making failure modes visible.
 
-<!--Social-->
-<h3 align="center">
-        <samp>&gt; Social
-        </samp>
-</h3>
+## `~/stack --core`
 
-<div align="center">
-<a target="_blank" href="https://linkedin.com/in/angel-ytm"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:angel_torres2702@outlook.com"><img src="https://img.shields.io/badge/-Mail-0364B8?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://open.spotify.com/user/angelpochoclo2?si=b5b267c887e14b68"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></img></a>
-<a target="_blank" href="https://music.apple.com/profile/angel_torres2702"><img src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white"></img></a>
-</div>
-<br>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-tech-stack.vercel.app/api/cards?title=Core%20Stack&amp;theme=catppuccin_macchiato&amp;align=center&amp;titleAlign=center&amp;lineCount=3&amp;width=700&amp;borderRadius=8&amp;gap=10&amp;line1=go%2CGo%2Cauto%3Btypescript%2CTypeScript%2Cauto%3Bnodedotjs%2CNode.js%2Cauto%3Bgnubash%2CBash%2Cauto&amp;line2=nestjs%2CNestJS%2Cauto%3Bredis%2CRedis%2Cauto%3B%2CSQL%2Cauto&amp;line3=amazonwebservices%2CAWS%2Cauto%3Bdocker%2CDocker%2Cauto%3Blinux%2CLinux%2Cauto%3Bnixos%2CNix%2Cauto%3Bgit%2CGit%2Cauto%3Bgithub%2CGitHub%2Cauto"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-tech-stack.vercel.app/api/cards?title=Core%20Stack&amp;theme=catppuccin_latte&amp;align=center&amp;titleAlign=center&amp;lineCount=3&amp;width=700&amp;borderRadius=8&amp;gap=10&amp;line1=go%2CGo%2Cauto%3Btypescript%2CTypeScript%2Cauto%3Bnodedotjs%2CNode.js%2Cauto%3Bgnubash%2CBash%2Cauto&amp;line2=nestjs%2CNestJS%2Cauto%3Bredis%2CRedis%2Cauto%3B%2CSQL%2Cauto&amp;line3=amazonwebservices%2CAWS%2Cauto%3Bdocker%2CDocker%2Cauto%3Blinux%2CLinux%2Cauto%3Bnixos%2CNix%2Cauto%3Bgit%2CGit%2Cauto%3Bgithub%2CGitHub%2Cauto"
+    />
+    <img
+      width="700"
+      src="https://github-readme-tech-stack.vercel.app/api/cards?title=Core%20Stack&amp;theme=catppuccin_macchiato&amp;align=center&amp;titleAlign=center&amp;lineCount=3&amp;width=700&amp;borderRadius=8&amp;gap=10&amp;line1=go%2CGo%2Cauto%3Btypescript%2CTypeScript%2Cauto%3Bnodedotjs%2CNode.js%2Cauto%3Bgnubash%2CBash%2Cauto&amp;line2=nestjs%2CNestJS%2Cauto%3Bredis%2CRedis%2Cauto%3B%2CSQL%2Cauto&amp;line3=amazonwebservices%2CAWS%2Cauto%3Bdocker%2CDocker%2Cauto%3Blinux%2CLinux%2Cauto%3Bnixos%2CNix%2Cauto%3Bgit%2CGit%2Cauto%3Bgithub%2CGitHub%2Cauto"
+      alt="Core stack: Go, TypeScript, Node.js, Bash, NestJS, Redis, SQL, AWS, Docker, Linux, Nix, Git and GitHub"
+    />
+  </picture>
+</p>
 
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=angelpochoclo2&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=angelpochoclo2&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ae00ff&bar_color_cover=false" alt="spotify-github-profile">
-  </a>
-</div>
+<details>
+  <summary><strong>Other tools and languages</strong></summary>
+  <br />
+
+  Express · Python · C# · Rust · NoSQL · GitHub Actions
+</details>
+
+## `~/backend-interests`
+
+```text
+backend/
+├── architecture
+├── api-design
+├── distributed-systems
+├── data-modeling
+├── reliability
+├── observability
+└── application-security
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/exploring-Rust-C6A0F6?style=for-the-badge&labelColor=24273A&logo=rust&logoColor=CAD3F5" alt="Exploring Rust" />
+  <img src="https://img.shields.io/badge/learning-Systems_Design-8AADF4?style=for-the-badge&labelColor=24273A" alt="Learning systems design" />
+  <img src="https://img.shields.io/badge/focus-Security-A6DA95?style=for-the-badge&labelColor=24273A" alt="Focused on security" />
+</p>
+
+## `~/telemetry`
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelYahir&amp;theme=tokyonight"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelYahir&amp;theme=default"
+    />
+    <img
+      width="96%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelYahir&amp;theme=tokyonight"
+      alt="GitHub activity summary"
+    />
+  </picture>
+</p>
+
+## `~/outside-dev`
+
+- Studying Japanese and Russian
+- Playing guitar
+- Reading literature
+- Gaming and mechatronics
+
+<p align="center">
+  <samp>request → validate → process → persist → observe → repeat</samp>
+</p>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:494D64,50:363A4F,100:1E2030&height=105&section=footer"
+  alt=""
+/>
