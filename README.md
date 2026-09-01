@@ -1,13 +1,13 @@
-<!-- GitHub profile README for AngelYahir -->
+<!-- GitHub profile README for Angel Torres -->
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2030,50:363A4F,100:494D64&height=190&section=header&text=Angel%20Yahir&fontSize=48&fontColor=CAD3F5&animation=fadeIn&fontAlignY=34&desc=Backend%20Engineer%20%E2%80%A2%20Systems%20%E2%80%A2%20Security&descSize=17&descAlignY=56"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2030,50:363A4F,100:494D64&height=190&section=header&text=Angel%20Torres&fontSize=48&fontColor=CAD3F5&animation=fadeIn&fontAlignY=34&desc=Backend%20Engineer%20%E2%80%A2%20Systems%20%E2%80%A2%20Security&descSize=17&descAlignY=56"
   alt="Angel Torres — Backend Engineer"
 />
 
 <p align="center">
-  <img src="./icons/profile.out.out.png" width="150" alt="Angel Yahir profile picture" />
+  <img src="./icons/profile.out.out.png" width="150" alt="Angel Torres profile picture" />
 </p>
 
 <p align="center">
@@ -39,7 +39,8 @@ Content-Type: application/json
 
 ```json
 {
-  "handle": "Angel Torres",
+  "name": "Angel Torres",
+  "handle": "AngelYahir",
   "role": "Backend Engineer",
   "location": "Nuevo León, México",
   "focus": [
@@ -146,10 +147,34 @@ backend/
 
 ## `~/outside-dev`
 
-- Studying Japanese and Russian
-- Playing guitar
-- Reading literature
-- Gaming and mechatronics
+<p align="center">
+  <img
+    width="700"
+    src="./icons/outside-dev.svg"
+    alt="Outside of code, Angel Torres studies Japanese and Russian, plays guitar, reads literature, and enjoys gaming and mechatronics."
+  />
+</p>
+
+## `~/recently-played`
+
+<p align="center">
+  <a href="https://music-profile.rayriffy.com">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://music-profile.rayriffy.com/theme/dark.svg?uid=000440.6b74a0381efc41f7a8b5a0b3e48532cd.2328"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://music-profile.rayriffy.com/theme/light.svg?uid=000440.6b74a0381efc41f7a8b5a0b3e48532cd.2328"
+      />
+      <img
+        src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000440.6b74a0381efc41f7a8b5a0b3e48532cd.2328"
+        alt="Recently played on Apple Music by Angel Torres"
+      />
+    </picture>
+  </a>
+</p>
 
 <p align="center">
   <samp>request → validate → process → persist → observe → repeat</samp>
